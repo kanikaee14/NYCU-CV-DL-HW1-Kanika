@@ -67,7 +67,9 @@ Prediction file formatted for Codabench submission
 
 ## References
 He et al., "Deep Residual Learning for Image Recognition"
+
 Woo et al., "CBAM: Convolutional Block Attention Module"
+
 PyTorch Documentation
 ## performance Snapshot 
 ![Project Snapshot](https://github.com/kanikaee14/NYCU-CV-DL-HW1-Kanika/raw/main/snapshot.png)
